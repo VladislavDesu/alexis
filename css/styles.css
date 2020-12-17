@@ -969,6 +969,10 @@ html {
       right: -60px;
    }
 
+   .team-info::after {
+      display: none;
+   }
+
    .wsteps-list li {
       width: 50%;
       margin-right: 0;
